@@ -1,4 +1,3 @@
-Click the Launch Binder tab below tolaunch a live instance of the Jupyter notebooks in this repo.
 
 
 
