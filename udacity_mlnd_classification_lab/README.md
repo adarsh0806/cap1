@@ -1,6 +1,6 @@
 Click the Launch Binder tab below tolaunch a live instance of the Jupyter notebooks in this repo.
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/jermwatt/udacity_mlnd_classification_lab)
+
 
 # Udacity Machine Learning Nanodegree classification lab
 
